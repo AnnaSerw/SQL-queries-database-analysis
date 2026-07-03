@@ -24,6 +24,7 @@ Query 4b The number of all tracks in the database
 
 Query 4c The number of tracks that are not sold
 ##  ![](query4c.png)
+To summarize: we can see the total number of tracks in the data base as 3503. The number of tracks that are sold is 1984. But there are some of them (as we consider the all database) which have no interest. The number of titles that are not sold is 1519. We have already indicated all of them as you can see in query 3.
 
 
 This project is based on the Chinook database. Source: https://github.com/lerocha/chinook-database
