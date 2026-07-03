@@ -8,13 +8,14 @@ How did the total sales volume evolve over the years, starting with the sum of h
 ##  ![](query1.png)
 Query 2 Length of employment
 How long have the employees been working at this company? Months are considered. At the top a person who has been working the longest.
-
+##  ![](query2.png)
 Query 3 Tracs that do not sell
-
+##  ![](query3.png)
 Query 4a The number of tracks that are sold
-
+##  ![](query4a.png)
 Query 4b The number of all tracks in the database
-
+##  ![](query4b.png)
 Query 4c The number of tracks that are not sold
+##  ![](query4c.png)
 
 This project is based on the Chinook database. Source: https://github.com/lerocha/chinook-database
