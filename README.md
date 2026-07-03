@@ -5,7 +5,7 @@ This repository contains a modified version of the database with SQL queries (as
 
 Query 1 Total sales per year
 How did the total sales volume evolve over the years, starting with the sum of highest total value?
-## Query1 ![](query1.png)
+##  ![](query1.png)
 Query 2 Length of employment
 How long have the employees been working at this company? Months are considered. At the top a person who has been working the longest.
 
